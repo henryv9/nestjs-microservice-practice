@@ -16,7 +16,7 @@ export class ReservationsController {
   ) {
     return this.reservationsService.create(
       createReservationDto,
-      user._id
+      user
     );
   }
 
