@@ -17,3 +17,8 @@ spec:
       containers:
       - image: northamerica-northeast1-docker.pkg.dev/nomadic-sprite-387514/notifications/production
         name: notifications
+        env: 
+        - name: PORT
+          value: "3000"
+        ports: 
+        - containerPort: 3000
