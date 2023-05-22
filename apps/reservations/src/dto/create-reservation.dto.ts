@@ -23,12 +23,6 @@ export class CreateReservationDto {
     @IsDefined()
     @IsNotEmptyObject()
     @ValidateNested()
-    @Type(() => CardDto)
-    card: CardDto;
-
-    @IsDefined()
-    @IsNotEmptyObject()
-    @ValidateNested()
     @Type(() => CreateChargeDto)
     charge: CreateChargeDto
 }
