@@ -15,10 +15,24 @@ spec:
         app: notifications
     spec:
       containers:
-      - image: northamerica-northeast1-docker.pkg.dev/nomadic-sprite-387514/notifications/production
-        name: notifications
-        env: 
-        - name: PORT
-          value: "3000"
-        ports: 
-        - containerPort: 3000
+        - image: northamerica-northeast1-docker.pkg.dev/nomadic-sprite-387514/notifications/production
+          name: notifications
+          env: 
+            - name: PORT
+              value: "3000"
+            - name: SMTP_USER
+              value: "henry@inweb3.xyz"
+            - name: GOOGLE_OAUTH_CLIENT_ID
+              value: "515287249608-hsfun6tfnpi0qmn0ka37v23p35ifiaao.apps.googleusercontent.com"
+            - name: GOOGLE_OAUTH_CLIENT_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: google
+                  key: clientSecret
+            - name: GOOGLE_OAUTH_CLIENT_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: google
+                  key: refreshToken
+          ports: 
+            - containerPort: 3000
