@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nomadic-sprite-387514",
+  "private_key_id": "929b5230200b2bfe6cb079098091548561765f53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCRKKwVjHyMjsAm\n+RxSUm486KIhKLJjhX4yojwddDDfD9iJn7yyj1ws3q9oDuCJPePwhcKbwC7BKZFj\n8LzA+FOeHMs8wKkrmRxhmE6rwPPnUKbyZ4eoR+owPivKEB3V+f5MjsjdzCf8iiNS\no4mL4UQ6vcHomXJzsdz3nrhTl42jDzQ4dYZqkLKYDueyxD/lDt8GOcObWaxN5dJn\npdHc9JdgDCmdGmgZQfUOJb4I0TwHXsGrP2T75n0ErV6NpGxrT5z7ugqCxHtibdFv\nKqsOsOu3xYAl3NIAcfEDMBOcQf19E5pZg73VakwGwadep6B5UVEr0L5RR3dbNkLf\njyAX8wRjAgMBAAECggEALb5X8Fh7vV2U3xM8ohKY67fRs8pb4PHl8XXfpNaDOiAH\nuGLut4Rm4zrvosahao5m4Np+F8/py/RZ/VkVWmhHDXn8b/I0vWj8ISM6k3R0SC5J\n1fTbMqQrADXvXbdTd6VWxnBuizq1VSeA9x9TDpIYCrzWuQJ2J1BjFmNdqfYF6966\noyqTg8AVCXsaAypLGQBf8QaYK0DIVdDlOnoDunpMWV513deDTWFFI9jVfdwEvYD2\nVvnYB8qgc+/sdxvLvoxnQ0s1Vx3QTTbMKX+ZEbRyJnASDSCSxLrF7qitqKl42d3d\nxbZ6xcrB7skCsWNJNKtAjLgre32jqBeWOdTBtmj4GQKBgQDG6L9xtpM/+ZNZC/1q\nNhEo1OZxSU/MVI/WTM0xdYf7v6Iyq2cQe+hzV25LeCwcuJDU7K926yLKd7KlhDg7\nHgocCqAnq3g0pJDSCAj1TAQ3FbSMfPXF/fHKRaI/wz8q1PlTy0jYfNT6/ahT/cm/\nXAbSW6eYQHH1EfV8OipIS3ZH+wKBgQC60oNbGY1YOMzEXU3hpdmC1TBG3NUnxJ1T\nuxytBEDCufhE8iRgOYbq7qoX4F+TWVHNronkqWh06BhAFIgzxtVQQXMgYyY6pKlr\nz6EnisOdTMA1AC2o4nhIySk+6RFhn4wHO1GqsWKKmaNxoY9AwNBu6PFozs6whNK/\nrLBeaBsAuQKBgDEosq/i5I+KGf2G9hF63VDPFUjoSn2AZLAc+RWBK6NvYCHPtMAh\nL3jaIdsrDxPmFX1aJZ9pS4bogFFh1RffO7ZkdeJ4AVRZW6Vc8QHW0K/ggGe8Nm3B\nbjGEdi32DjWCv0ATXKSMbYK+kAx6C5Nspg71Mf1x5/gegSI7qdmGNOxjAoGAbhAr\nlvYc0YbVDDKz+WZOGMgkYvsjEQTCc1ve7wd8Z7xMScImMBJ0K+BjkSF87UBH81cK\nog40HfvGnan6/BX+AgQtIT2IfjAYKA3wsW0NBZT7/72VKNQTbT4l8Iw60zq9slz+\nJgPPPDx7kCxQSyPNKCpQXyDHoDMAPjAsz9GhZvECgYAI4g/csaCDpPZ1hoIAtBCp\nh3ZUlJrONkOzvYJ1T7oNfylnLroGMSuRXVhG2Rxw2OzKDIdLxkdzZnEmZtojHiCN\nSUP8swLoWIA4Y5Zm3uY0xecv2Kn3umOBXyHX08HmX3SGKZNhDiFXCJDSPthak8jt\n0TUakJF2xGlBmmoZ9XYYog==\n-----END PRIVATE KEY-----\n",
+  "client_email": "artiface-image-pull@nomadic-sprite-387514.iam.gserviceaccount.com",
+  "client_id": "102138478055786775953",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artiface-image-pull%40nomadic-sprite-387514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
