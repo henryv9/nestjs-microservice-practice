@@ -29,7 +29,7 @@ spec:
                 secretKeyRef:
                   name: google
                   key: clientSecret
-            - name: GOOGLE_OAUTH_CLIENT_SECRET
+            - name: GOOGLE_OAUTH_REFRESH_TOKEN
               valueFrom:
                 secretKeyRef:
                   name: google
